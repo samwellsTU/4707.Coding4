@@ -1,4 +1,4 @@
-# Coding 3 | MUST 4707
+# Coding 4 | MUST 4707
 
 ## Understanding `let`, `const`, and Arrays
 
